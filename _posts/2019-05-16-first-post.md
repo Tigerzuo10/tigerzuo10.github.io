@@ -6,4 +6,4 @@ date: 2019-05-26
 
 First post test
 
-![Image of a tesla coil](/assets/Tesla fine.jpg = 100x)
+![Image of a tesla coil](/assets/Tesla fine.jpg = 100x50)
